@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @just-Ro
 - 👀 I’m interested in LEGO, Minecraft, Programming and Electronics
-- 🌱 I’m currently learning Algorithms and Data Structures
+- 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on something...
 - 📫 How to reach me: email me...?
 
