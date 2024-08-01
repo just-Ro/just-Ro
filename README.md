@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rodrigo francisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo francisco" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23648127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23648127" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rodrigo francisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rodrigo francisco" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/rodrigo francisco](https://www.youtube.com/channel/UC3Bhq5ErFXOwg75uwdlsVKQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rodrigo francisco" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/just_ro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="just_ro" height="30" width="40" /></a>
 </p>
 
