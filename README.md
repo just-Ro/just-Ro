@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rodrigofrancisco@tecnico.ulisboa.pt**
 
-- ⚡ Fun fact **I skipped a year in school**
+- ⚡ Fun fact: **I skipped a year in school**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
