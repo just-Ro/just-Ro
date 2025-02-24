@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just-ro" alt="just-ro" /></a> </p>
 
-- 🌱 I’m currently learning **VHDL** and **CUDA programming**
+- 🌱 I’m currently learning **Operating Systems** and **SQL**
 
 - 💬 Ask me about **Python**
 
